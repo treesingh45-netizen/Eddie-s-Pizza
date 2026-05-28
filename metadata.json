@@ -1,0 +1,6 @@
+{
+  "name": "Eddie's Pizza",
+  "description": "Premium, philosophy-driven website for Eddie's Pizza, featuring their authentic heritage, food truck, and original bar pie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
